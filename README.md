@@ -172,7 +172,6 @@ This project demonstrates how Artificial Intelligence can be applied to renewabl
 
 ## 👨‍💻 Author
 
-**Nikhil Singh Rajput**
 
 Skill4Green Capstone Project
 
