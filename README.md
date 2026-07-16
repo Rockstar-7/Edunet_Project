@@ -169,10 +169,6 @@ python EcoAI.py
 This project demonstrates how Artificial Intelligence can be applied to renewable energy analysis and prediction. By combining data preprocessing, visualization, and Machine Learning, EcoAI provides valuable insights that can support sustainable development, clean energy initiatives, and informed decision-making.
 
 ---
-
-## 👨‍💻 Author
-
-
 Skill4Green Capstone Project
 
 ---
